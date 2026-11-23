@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=NM+PUEBLO+OF+JEMEZ+NEW+MEXICO",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=NM+PUEBLO+OF+JEMEZ+NEW+MEXICO",
+  "title": "Federal Register - NM PUEBLO OF JEMEZ NEW MEXICO",
+  "fetched_at": "2026-11-23T18:13:17.697062Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 331575,
+  "sha256": "ad66632ae86768dd0f43b1f44c00772eced2a7677c9211782242f0b3c33f81a4",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
